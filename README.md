@@ -24,5 +24,14 @@ Solving Audio Captchas using Machine Learning
 * python poc.py     (If you want to our original Algorithm(Accuracy is about 70%))
 * gradio web3.py    (If you want to deploy the model on a web interface)
 
+The model is trained on 1000 training audio samples and tested on 500 audio files
+
 ## ScreenShots
+* Model Training and Evaluation:
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-1.png)
+
+* Gradio webinterface
 ![alt text](image.png)
